@@ -6,7 +6,8 @@ from pyrogram.types import CallbackQuery
 from MyTgBot import bot
 
 START_TEXT = """
-I Already Awake!  ( • ̀ω•́  )!
+Hello I am madara uchiha
+I am under development!  ( • ̀ω•́  )!
 
 • Read the help menu for about my futures /help.
 """
