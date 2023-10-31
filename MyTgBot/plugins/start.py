@@ -18,7 +18,8 @@ buttons = [
                 "➕ Add Me", url="t.me/cuteserenabot?startgroup=true"),
             InlineKeyboardButton(
                 "🆘 Help", callback_data='help_back'),]]
-
+             InlineKeyboardButton(
+                "🔥 dev 🔥",  url="t.me/uchiha_itachi_god_akatusuki
 
 
 @bot.on_message(filters.command("start"))
